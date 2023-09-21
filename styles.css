@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+#firstCol {
+        width: 200px;
+      }
+      #middleCol {
+        width: 600px;
+        text-align: center;
+      }
+      #lastCol {
+        width: 200px;
+      }
